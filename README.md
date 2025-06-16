@@ -3,17 +3,21 @@ This project is a simple Python banking application built using Object-Oriented 
 
 
 🚀 Features
+
 Create a bank account
+
 Dashboard
+
 Deposit and withdraw money
+
 withdrawal limit for savings account
+
 rerun
 
 
 
 👥 Contributors
 
-Name	Contributions
 
 Amos recreated the base ui giving it a sidebar which gives a balance of 20,000 and updates later on
 
