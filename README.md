@@ -10,12 +10,19 @@ withdrawal limit for savings account
 rerun
 
 
+
 👥 Contributors
+
 Name	Contributions
+
 Amos recreated the base ui giving it a sidebar which gives a balance of 20,000 and updates later on
+
 Damian created the deposit for the current account wich makes it look nicer
+
 Victor created the withdrawal limit for the savings account making the savings account not to withdraw over a million
+
 Godwin created the withdrawal for the current account which gives it the no limit feature for the current account
+
 John created the deposit for the savings account which adds to the feature of withdrawal limit
 
 
