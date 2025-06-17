@@ -4,13 +4,11 @@ This project is a simple Python banking application built using Object-Oriented 
 
 🚀 Features
 
-Create a bank account
+sideboard
 
-Dashboard
+Deposit and withdraw money on the current account
 
-Deposit and withdraw money
-
-withdrawal limit for savings account
+withdrawal limit for savings account and deposit on the withdrawal account
 
 rerun
 
@@ -19,7 +17,7 @@ rerun
 👥 Contributors
 
 
-Amos recreated the base ui giving it a sidebar which gives a balance of 20,000 and updates later on
+Amos recreated the base ui giving it a sidebar which gives a balance of 20,000 and updates later on and created the pages with the readme file
 
 Damian created the deposit for the current account wich makes it look nicer
 
