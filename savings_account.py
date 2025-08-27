@@ -27,4 +27,5 @@ class SavingsAccount(Account):
         if amount <= 0:
             raise ValueError("Amount must be positive")
         self.balance += amount
+
         return True
